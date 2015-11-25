@@ -1,0 +1,52 @@
+AdapterDeviceID: 0x0106
+AdapterDriverVersion: 9.17.10.4229
+AdapterSubsysID: 06491025
+AdapterVendorID: 0x8086
+Add-ons: cutyfox%40apps.metzweb.net:1.4.1.1-signed,artur.dubovoy%40gmail.com:8.3.2,translator%40zoli.bod:2.1.0.5.1,%7B972ce4c6-7e08-4474-a285-3208198ce6fd%7D:42.0,vdpure%40link64:1.97.42,ffext_basicvideoext%40startpage24:1.97.37.1-signed,info%40youtube-mp3.org:1.0.9.1-signed,jid1-ZZZ13QuLJ5jFQQ%40jetpack:5.3.3,combo%40yandex.ru:1.0.1,light_plugin_D772DC8D6FAF43A29B25C4EBAA5AD1DE%40kaspersky.com:4.6.2.21
+AsyncPluginInit: 0
+AvailablePageFile: 6711037952
+AvailablePhysicalMemory: 5467021312
+AvailableVirtualMemory: 3557359616
+BIOS_Manufacturer: Insyde Corp.
+BlockedDllList: 
+BreakpadReserveAddress: 235864064
+BreakpadReserveSize: 67108864
+BuildID: 20151029151421
+CrashTime: 1448486427
+EMCheckCompatibility: true
+EventLoopNestingLevel: 1
+FramePoisonBase: 00000000f0de0000
+FramePoisonSize: 65536
+InstallTime: 1446893663
+Notes: AdapterVendorID: 0x8086, AdapterDeviceID: 0x0106, AdapterSubsysID: 06491025, AdapterDriverVersion: 9.17.10.4229
+DWrite- DWrite+ D2D1.1- D2D1.1+ D2D- D2D+ D3D11 Layers- D3D11 Layers+ WebGL- EGL- EGL+ GL Context- GL Context+ WebGL+ 
+ProductID: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+ProductName: Firefox
+ReleaseChannel: release
+SafeMode: 0
+SecondsSinceLastCrash: 409
+StartupTime: 1448486376
+SystemMemoryUsePercentage: 34
+TelemetryEnvironment: {"build":{"applicationId":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","applicationName":"Firefox","architecture":"x86","buildId":"20151029151421","version":"42.0","vendor":"Mozilla","platformVersion":"42.0","xpcomAbi":"x86-msvc","hotfixVersion":"20150902.02"},"partner":{"distributionId":null,"distributionVersion":null,"partnerId":null,"distributor":null,"distributorChannel":null,"partnerNames":[]},"system":{"memoryMB":8005,"isWow64":true,"cpu":{"count":2,"vendor":null,"family":null,"model":null,"stepping":null,"extensions":["hasMMX","hasSSE","hasSSE2","hasSSE3","hasSSSE3","hasSSE4_1","hasSSE4_2"]},"os":{"name":"Windows_NT","version":"10.0","servicePackMajor":0,"servicePackMinor":0,"installYear":2015,"locale":"de-DE"},"hdd":{"profile":{"model":"ST9500325AS","revision":"0001SDM1"},"binary":{"model":"ST9500325AS","revision":"0001SDM1"},"system":{"model":"ST9500325AS","revision":"0001SDM1"}},"gfx":{"D2DEnabled":true,"DWriteEnabled":true,"adapters":[{"description":"Intel(R) HD Graphics","vendorID":"0x8086","deviceID":"0x0106","subsysID":"06491025","RAM":null,"driver":"igdumd64 igd10umd64 igd10umd64 igdumd32 igd10umd32 igd10umd32","driverVersion":"9.17.10.4229","driverDate":"5-27-2015","GPUActive":true}],"monitors":[{"screenWidth":1366,"screenHeight":768,"refreshRate":60,"pseudoDisplay":false}],"features":{"compositor":"none","d3d11":{"status":"available","version":41216,"warp":false,"textureSharing":true,"blacklisted":false},"d2d":{"status":"available","version":"1.1"}}}},"settings":{"addonCompatibilityCheckEnabled":true,"blocklistEnabled":true,"isDefaultBrowser":true,"e10sEnabled":false,"telemetryEnabled":false,"isInOptoutSample":false,"locale":"de","update":{"channel":"release","enabled":true,"autoDownload":true},"userPrefs":{"browser.cache.disk.capacity":358400,"browser.newtabpage.enhanced":true,"browser.startup.homepage":"<user-set>"}},"profile":{"creationDate":16714},"addons":{"activeAddons":{"vdpure@link64":{"blocklisted":false,"description":"Laden Sie Videos von Webseiten wie Youtube, Vimeo und vielen anderen runter und speichern Sie sie auf Ihre Festplatte","name":"Youtube and more - Easy Video Downloader","userDisabled":false,"appDisabled":false,"version":"1.97.42","scope":1,"type":"extension","foreignInstall":false,"hasBinaryComponents":false,"installDay":16725,"updateDay":16725,"signedState":2},"ffext_basicvideoext@startpage24":{"blocklisted":false,"description":"- speichern Sie die in Webseiten eingebetteten Videos (Flash, HTML5) auf Ihrer Festplatte.\n- unterstützt Youtube, Vimeo und viele weitere Webseiten.\n- fügen Sie Videos einfach unserer Videoliste hinzu. (zum späteres Abspielen oder herunterladen).","name":"Video Downloader professional","userDisabled":false,"appDisabled":false,"version":"1.97.37.1-signed","scope":1,"type":"extension","foreignInstall":false,"hasBinaryComponents":false,"installDay":16725,"updateDay":16725,"signedState":2},"info@youtube-mp3.org":{"blocklisted":false,"description":"Includes a button on any YouTube Video page that allows its users to make use of the YouTube mp3 technology to obtain a private copy off that video broadcast which they can download.","name":"YouTube mp3","userDisabled":false,"appDisabled":false,"version":"1.0.9.1-signed","scope":1,"type":"extension","foreignInstall":false,"hasBinaryComponents":false,"installDay":16725,"updateDay":16725,"signedState":2},"cutyfox@apps.metzweb.net":{"blocklisted":false,"description":"Kuerze mit nur einem Klick zu lange URLs und bekommen Sie diese in Ihre Zwischenablage kopiert.","name":"Cutyfox URL Shortener (bit.ly, is.gd, goo.gl)","userDisabled":false,"appDisabled":false,"version":"1.4.1.1-signed","scope":1,"type":"extension","foreignInstall":false,"hasBinaryComponents":false,"installDay":16732,"updateDay":16732,"signedState":2},"jid1-ZZZ13QuLJ5jFQQ@jetpack":{"blocklisted":false,"description":"The world's most loved twitter client.","name":"TweetDeck Enhancer","userDisabled":false,"appDisabled":false,"version":"5.3.3","scope":1,"type":"extension","foreignInstall":false,"hasBinaryComponents":false,"installDay":16732,"updateDay":16732,"signedState":1},"artur.dubovoy@gmail.com":{"blocklisted":false,"description":"Flash Video Downloader helps you to download any video (flv, mp4, HD) from YouTube-like, Facebook, Break, Metacafe and more in one click. You can download mp3, music (iPod), avi and more. Download Flash games. Download Helper.","name":"Flash Video Downloader - YouTube HD Download [4K]","userDisabled":false,"appDisabled":false,"version":"8.3.2","scope":1,"type":"extension","foreignInstall":false,"hasBinaryComponents":false,"installDay":16718,"updateDay":16760,"signedState":1},"translator@zoli.bod":{"blocklisted":false,"description":"Übersetze den markierten Text und die ganze Seite mit dem Google Übersetzer.","name":"Google Translator for Firefox","userDisabled":false,"appDisabled":false,"version":"2.1.0.5.1","scope":1,"type":"extension","foreignInstall":false,"hasBinaryComponents":false,"installDay":16761,"updateDay":16761,"signedState":2},"combo@yandex.ru":{"blocklisted":false,"description":"Instant web-search in Firefox address bar","name":"Combo","userDisabled":false,"appDisabled":false,"version":"1.0.1","scope":1,"type":"extension","foreignInstall":true,"hasBinaryComponents":false,"installDay":16761,"updateDay":16761,"signedState":2},"light_plugin_D772DC8D6FAF43A29B25C4EBAA5AD1DE@kaspersky.com":{"blocklisted":false,"description":"Kaspersky-Lab-Erweiterung für Ihre Online-Sicherheit","name":"Kaspersky Protection","userDisabled":false,"appDisabled":false,"version":"4.6.2.21","scope":8,"type":"extension","foreignInstall":true,"hasBinaryComponents":false,"installDay":16761,"updateDay":16761,"signedState":0}},"theme":{"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","blocklisted":false,"description":"Das Standard-Theme.","name":"Standard","userDisabled":false,"appDisabled":false,"version":"42.0","scope":4,"foreignInstall":false,"hasBinaryComponents":false,"installDay":16714,"updateDay":16746},"activePlugins":[{"name":"Adobe Acrobat","version":"15.9.20069.28170","description":"Adobe PDF Plug-In For Firefox and Netscape 15.9.20069","blocklisted":false,"disabled":false,"clicktoplay":true,"mimeTypes":["application/pdf","application/vnd.adobe.pdfxml","application/vnd.adobe.x-mars","application/vnd.fdf","application/vnd.adobe.xfdf","application/vnd.adobe.xdp+xml","application/vnd.adobe.xfd+xml"],"updateDay":16708},{"name":"Photo Gallery","version":"16.4.3528.331","description":"NPWLPG","blocklisted":false,"disabled":false,"clicktoplay":true,"mimeTypes":["application/x-wlpg3-detect","application/x-wlpg-detect"],"updateDay":16160},{"name":"Microsoft Office 2016","version":"16.0.6001.1038","description":"The plugin allows you to have a better experience with Microsoft SharePoint","blocklisted":false,"disabled":false,"clicktoplay":true,"mimeTypes":["application/x-sharepoint","application/x-sharepoint-uc"],"updateDay":16740},{"name":"Silverlight Plug-In","version":"5.1.40728.0","description":"5.1.40728.0","blocklisted":false,"disabled":false,"clicktoplay":true,"mimeTypes":["application/x-silverlight","application/x-silverlight-2"],"updateDay":16643},{"name":"iTunes Application Detector","version":"1.0.1.1","description":"iTunes Detector Plug-in","blocklisted":false,"disabled":false,"clicktoplay":true,"mimeTypes":["application/itunes-plugin"],"updateDay":16716},{"name":"Shockwave Flash","version":"19.0.0.245","description":"Shockwave Flash 19.0 r0","blocklisted":false,"disabled":false,"clicktoplay":false,"mimeTypes":["application/x-shockwave-flash","application/futuresplash"],"updateDay":16753},{"name":"Skype Web Plugin","version":"7.6.0.295","description":"Skype Web Plugin 7.6.0.295","blocklisted":false,"disabled":false,"clicktoplay":true,"mimeTypes":["application/x-skype-nativeplugin7.0","application/x-skype-shellapp"],"updateDay":16692}],"activeGMPlugins":{"gmp-gmpopenh264":{"version":"1.5.1","userDisabled":false,"applyBackgroundUpdates":1},"gmp-eme-adobe":{"version":"15","userDisabled":false,"applyBackgroundUpdates":1}},"activeExperiment":{},"persona":null}}
+Theme: classic/1.0
+Throttleable: 1
+TotalPageFile: 9736318976
+TotalPhysicalMemory: 8394141696
+TotalVirtualMemory: 4294836224
+URL: about:sessionrestore
+Vendor: Mozilla
+Version: 42.0
+Winsock_LSP: MSAFD-Tcpip [TCP/IP] : 2 : 1 : %SystemRoot%\system32\mswsock.dll 
+ MSAFD-Tcpip [UDP/IP] : 2 : 2 :  
+ MSAFD-Tcpip [RAW/IP] : 2 : 3 : %SystemRoot%\system32\mswsock.dll 
+ MSAFD-Tcpip [TCP/IPv6] : 2 : 1 :  
+ MSAFD-Tcpip [UDP/IPv6] : 2 : 2 : %SystemRoot%\system32\mswsock.dll 
+ MSAFD-Tcpip [RAW/IPv6] : 2 : 3 :  
+ RSVP-TCPv6-Dienstanbieter : 2 : 1 : %SystemRoot%\system32\mswsock.dll 
+ RSVP-TCP-Dienstanbieter : 2 : 1 :  
+ RSVP-UDPv6-Dienstanbieter : 2 : 2 : %SystemRoot%\system32\mswsock.dll 
+ RSVP-UDP-Dienstanbieter : 2 : 2 :  
+ Hyper-V RAW : 2 : 1 : %SystemRoot%\system32\mswsock.dll
+useragent_locale: de
+
+Diese Meldung enthält Informationen über den Status der Anwendung zum Zeitpunkt des Absturzes.
